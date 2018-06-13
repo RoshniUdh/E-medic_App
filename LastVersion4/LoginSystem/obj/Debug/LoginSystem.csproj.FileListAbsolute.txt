@@ -1,0 +1,1191 @@
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\LoginSystem.dll
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\layout\main.xml
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\values\strings.xml
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\icon.png
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\R.cs.flag
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\uploadflags.txt
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\values\styles.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csprojResolveAssemblyReference.cache
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\LoginSystem.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\layout\main.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\values\strings.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\icon.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\mail.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_up.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_right.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\values\styles.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\R.cs.flag
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\uploadflags.txt
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\LoginSystem.dll.mdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csprojResolveAssemblyReference.cache
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\R.txt
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\R.txt
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\barta\OneDrive\Bureaublad\2.0(new screens)\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\R.txt
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\loginsystem\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\R.txt
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem2.0\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\R.txt
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\meldingerna.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\raw\ialarm.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\raw\radar.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\raw\sunalarm.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\Mono.Android.Export.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\soundimages.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\Roshni Udhaya\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\stopimagess.jpg
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\layout\meldingerna.xml
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\raw\ialarm.mp3
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\raw\radar.mp3
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\raw\sunalarm.mp3
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\soundimages.png
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\res\drawable\stopimagess.jpg
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\R.txt
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\Mono.Android.Export.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LastVersion\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\layout\meldingerna.xml
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\raw\ialarm.mp3
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\raw\radar.mp3
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\raw\sunalarm.mp3
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\soundimages.png
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\res\drawable\stopimagess.jpg
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\R.txt
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\salee\source\repos\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LastVersion\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\layout\meldingerna.xml
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\raw\ialarm.mp3
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\raw\radar.mp3
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\raw\sunalarm.mp3
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\soundimages.png
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\res\drawable\stopimagess.jpg
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\R.txt
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\salee\source\repos\3.3\LastVersion\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\layout\meldingerna.xml
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\raw\ialarm.mp3
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\raw\radar.mp3
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\raw\sunalarm.mp3
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\soundimages.png
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\res\drawable\stopimagess.jpg
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\R.txt
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\Mono.Android.Export.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\#.5\LastVersion\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\menu\threedotmenu.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\ic_action_overflow.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\meldingerna.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\raw\ialarm.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\raw\radar.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\raw\sunalarm.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\soundimages.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\stopimagess.jpg
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\R.txt
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\Mono.Android.Export.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\menu\refreshmenu.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\layout\meldingerna.xml
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\raw\ialarm.mp3
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\raw\radar.mp3
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\raw\sunalarm.mp3
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\soundimages.png
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\stopimagess.jpg
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\res\drawable\refreshbutton.png
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\R.txt
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\salee\source\repos\LastVersion3\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\LoginSystem.csproj.CopyComplete
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\dialog_login_in.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\menu\refreshmenu.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\home.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\homescreenbutton.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\dialog_afspraken.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\afspraken.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\profielscherm.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\voorraadscherm.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\profiel.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\dialog_medicijn.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\melding.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\layout\meldingerna.xml
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\raw\ialarm.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\raw\radar.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\raw\sunalarm.mp3
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\soundimages.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\stopimagess.jpg
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\res\drawable\refreshbutton.png
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\R.txt
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\LoginSystem.csprojAssemblyReference.cache
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\Mono.Android.Export.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\Mono.Android.Export.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\Mono.Android.Export.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\Roshni Udhaya\source\repos\LastVersion4\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
