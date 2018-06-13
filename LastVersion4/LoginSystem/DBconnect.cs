@@ -1,4 +1,9 @@
-﻿using System;
+﻿////////////////////////////////////////////////////////////
+/////// This file connects to database and retrieves data
+/////// DBconnect.cs
+///////////////////////////////////////////////////////////
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
